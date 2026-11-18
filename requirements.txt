@@ -12,6 +12,7 @@ scikit-learn
 seaborn>=0.12.2
 sqlalchemy>=2.0.38
 sympy>=1.10.1
+tensorflow>=2.13.0
 xgboost
 # Versions used by src/app.py for reproducible sentiment inference.
 torch==2.15.0
